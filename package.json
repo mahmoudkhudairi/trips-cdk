@@ -23,6 +23,8 @@
     "@aws-cdk/aws-lambda": "^1.116.0",
     "@aws-cdk/core": "1.116.0",
     "@aws-cdk/pipelines": "^1.116.0",
-    "dotenv": "^10.0.0"
+    "@aws-sdk/client-dynamodb": "^3.26.0",
+    "dotenv": "^10.0.0",
+    "uuid": "^8.3.2"
   }
 }
