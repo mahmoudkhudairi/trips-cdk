@@ -1,5 +1,5 @@
 {
-  "name": "get-price",
+  "name": "dynamo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1"
+    "@aws-sdk/client-dynamodb": "^3.26.0",
+    "dynamoose": "^2.8.0",
+    "uuid": "^8.3.2"
   }
 }

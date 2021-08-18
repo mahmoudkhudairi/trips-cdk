@@ -1,5 +1,5 @@
 {
-  "name": "get-completed-trips",
+  "name": "axios-layer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dynamoose": "^2.7.3"
+    "axios": "^0.21.1"
   }
 }
